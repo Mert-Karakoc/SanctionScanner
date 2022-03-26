@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "DJqtjKPaz5HmY18hUuN9AcwhPpFPfkZO1pn3430GIZzfnsGl/1rLYbOTLVUhXH1LHG4pyfp4+McB4C3a59BN0Q==",
+  "success": true,
+  "projectFilePath": "D:\\Eğitim\\SanctionScanner\\DataFromWebPage\\DataFromWebPage.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mertt\\.nuget\\packages\\htmlagilitypack\\1.11.42\\htmlagilitypack.1.11.42.nupkg.sha512",
+    "C:\\Users\\mertt\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\mertt\\.nuget\\packages\\selenium.webdriver\\4.1.0\\selenium.webdriver.4.1.0.nupkg.sha512",
+    "C:\\Users\\mertt\\.nuget\\packages\\selenium.webdriver.chromedriver\\99.0.4844.5100\\selenium.webdriver.chromedriver.99.0.4844.5100.nupkg.sha512"
+  ],
+  "logs": []
+}
